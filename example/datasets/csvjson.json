@@ -1,0 +1,722 @@
+[
+  {
+    "Name": "SYSTEMS",
+    "Value.id": 1,
+    "Value.group": 1
+  },
+  {
+    "Name": "Soaring of Albatross",
+    "Value.id": 2,
+    "Value.group": 1
+  },
+  {
+    "Name": "climbing of mudskipper",
+    "Value.id": 3,
+    "Value.group": 1
+  },
+  {
+    "Name": "dynamic soaring",
+    "Value.id": 4,
+    "Value.group": 2
+  },
+  {
+    "Name": "muscles",
+    "Value.id": 5,
+    "Value.group": 2
+  },
+  {
+    "Name": "tubular nose",
+    "Value.id": 6,
+    "Value.group": 2
+  },
+  {
+    "Name": "acceleration of bird",
+    "Value.id": 7,
+    "Value.group": 4
+  },
+  {
+    "Name": "increased velocity of bird",
+    "Value.id": 8,
+    "Value.group": 4
+  },
+  {
+    "Name": "soaring with no net gain",
+    "Value.id": 9,
+    "Value.group": 4
+  },
+  {
+    "Name": "Elevation of albatross wing",
+    "Value.id": 10,
+    "Value.group": 5
+  },
+  {
+    "Name": "extension of elbow",
+    "Value.id": 11,
+    "Value.group": 5
+  },
+  {
+    "Name": "extension of the wrist",
+    "Value.id": 12,
+    "Value.group": 5
+  },
+  {
+    "Name": "protraction of wing",
+    "Value.id": 13,
+    "Value.group": 5
+  },
+  {
+    "Name": "shoulder lock",
+    "Value.id": 14,
+    "Value.group": 5
+  },
+  {
+    "Name": "sustained flight",
+    "Value.id": 15,
+    "Value.group": 5
+  },
+  {
+    "Name": "slow fibres",
+    "Value.id": 16,
+    "Value.group": 5
+  },
+  {
+    "Name": "pelvic fins",
+    "Value.id": 17,
+    "Value.group": 3
+  },
+  {
+    "Name": "pectoral fins",
+    "Value.id": 18,
+    "Value.group": 3
+  },
+  {
+    "Name": "protractor ischii",
+    "Value.id": 19,
+    "Value.group": 17
+  },
+  {
+    "Name": "retractor ischii",
+    "Value.id": 20,
+    "Value.group": 17
+  },
+  {
+    "Name": "propulsion phase",
+    "Value.id": 21,
+    "Value.group": 18
+  },
+  {
+    "Name": "recovery phase",
+    "Value.id": 22,
+    "Value.group": 18
+  },
+  {
+    "Name": "Single phase induction motor",
+    "Value.id": 23,
+    "Value.group": 1
+  },
+  {
+    "Name": "Centrifugal switch",
+    "Value.id": 24,
+    "Value.group": 23
+  },
+  {
+    "Name": "Stator",
+    "Value.id": 25,
+    "Value.group": 23
+  },
+  {
+    "Name": "Rotor",
+    "Value.id": 26,
+    "Value.group": 23
+  },
+  {
+    "Name": "Initiation of the motor",
+    "Value.id": 27,
+    "Value.group": 24
+  },
+  {
+    "Name": "AW disconnected from stator",
+    "Value.id": 28,
+    "Value.group": 24
+  },
+  {
+    "Name": "Current leads voltage",
+    "Value.id": 29,
+    "Value.group": 25
+  },
+  {
+    "Name": "Current leads voltage in AW",
+    "Value.id": 30,
+    "Value.group": 25
+  },
+  {
+    "Name": "Magnetic flux produced",
+    "Value.id": 31,
+    "Value.group": 25
+  },
+  {
+    "Name": "Revolving flux",
+    "Value.id": 32,
+    "Value.group": 25
+  },
+  {
+    "Name": "Emf induced electric and magnetic field generated",
+    "Value.id": 33,
+    "Value.group": 26
+  },
+  {
+    "Name": "Rotor generates net torque",
+    "Value.id": 34,
+    "Value.group": 26
+  },
+  {
+    "Name": "Rotor rotates",
+    "Value.id": 35,
+    "Value.group": 26
+  },
+  {
+    "Name": "Mechanical power generated",
+    "Value.id": 36,
+    "Value.group": 26
+  },
+  {
+    "Name": "Revolute pair",
+    "Value.id": 37,
+    "Value.group": 1
+  },
+  {
+    "Name": "Peristaltic pump",
+    "Value.id": 38,
+    "Value.group": 1
+  },
+  {
+    "Name": "Power transmission to rotor",
+    "Value.id": 39,
+    "Value.group": 38
+  },
+  {
+    "Name": "Rotation of rotor",
+    "Value.id": 40,
+    "Value.group": 38
+  },
+  {
+    "Name": "Rotation of movable member",
+    "Value.id": 41,
+    "Value.group": 38
+  },
+  {
+    "Name": "Force compressing tube",
+    "Value.id": 42,
+    "Value.group": 38
+  },
+  {
+    "Name": "Pump fluid",
+    "Value.id": 43,
+    "Value.group": 38
+  },
+  {
+    "Name": "Axial piston pump",
+    "Value.id": 44,
+    "Value.group": 1
+  },
+  {
+    "Name": "Drive shaft",
+    "Value.id": 45,
+    "Value.group": 44
+  },
+  {
+    "Name": "Cylinder block",
+    "Value.id": 46,
+    "Value.group": 44
+  },
+  {
+    "Name": "Piston",
+    "Value.id": 47,
+    "Value.group": 44
+  },
+  {
+    "Name": "Swash plate",
+    "Value.id": 48,
+    "Value.group": 47
+  },
+  {
+    "Name": "Disc rotation",
+    "Value.id": 49,
+    "Value.group": 48
+  },
+  {
+    "Name": "Rotation to reciprocation",
+    "Value.id": 50,
+    "Value.group": 48
+  },
+  {
+    "Name": "Walking",
+    "Value.id": 51,
+    "Value.group": 1
+  },
+  {
+    "Name": "Stance phase",
+    "Value.id": 52,
+    "Value.group": 51
+  },
+  {
+    "Name": "Body moves out of inertia",
+    "Value.id": 53,
+    "Value.group": 52
+  },
+  {
+    "Name": "Stance phase sub2",
+    "Value.id": 54,
+    "Value.group": 52
+  },
+  {
+    "Name": "Swing phase",
+    "Value.id": 55,
+    "Value.group": 51
+  },
+  {
+    "Name": "Swing phase sub1",
+    "Value.id": 56,
+    "Value.group": 55
+  },
+  {
+    "Name": "Swing phase sub2",
+    "Value.id": 57,
+    "Value.group": 55
+  },
+  {
+    "Name": "Alternator",
+    "Value.id": 58,
+    "Value.group": 1
+  },
+  {
+    "Name": "Alternator Rotor",
+    "Value.id": 59,
+    "Value.group": 58
+  },
+  {
+    "Name": "Alternator Stator",
+    "Value.id": 60,
+    "Value.group": 58
+  },
+  {
+    "Name": "Zinc-Carbon Battery",
+    "Value.id": 61,
+    "Value.group": 1
+  },
+  {
+    "Name": "Anode",
+    "Value.id": 62,
+    "Value.group": 61
+  },
+  {
+    "Name": "Cathode",
+    "Value.id": 63,
+    "Value.group": 61
+  },
+  {
+    "Name": "Carburetor",
+    "Value.id": 64,
+    "Value.group": 1
+  },
+  {
+    "Name": "Venturi",
+    "Value.id": 65,
+    "Value.group": 64
+  },
+  {
+    "Name": "Fuel Jet",
+    "Value.id": 66,
+    "Value.group": 64
+  },
+  {
+    "Name": "Throtte Valve",
+    "Value.id": 67,
+    "Value.group": 64
+  },
+  {
+    "Name": "Galvanometer",
+    "Value.id": 68,
+    "Value.group": 1
+  },
+  {
+    "Name": "Generation of magnetic field",
+    "Value.id": 69,
+    "Value.group": 68
+  },
+  {
+    "Name": "Interaction of magnetic fields",
+    "Value.id": 70,
+    "Value.group": 68
+  },
+  {
+    "Name": "Measuring the Current",
+    "Value.id": 71,
+    "Value.group": 68
+  },
+  {
+    "Name": "Block and Tackle System",
+    "Value.id": 72,
+    "Value.group": 1
+  },
+  {
+    "Name": "Rope movement",
+    "Value.id": 73,
+    "Value.group": 72
+  },
+  {
+    "Name": "Weight is lifted",
+    "Value.id": 74,
+    "Value.group": 72
+  },
+  {
+    "Name": "Weight is lifted by a particular distance",
+    "Value.id": 75,
+    "Value.group": 72
+  },
+  {
+    "Name": "random",
+    "Value.id": 76,
+    "Value.group": 1
+  },
+  {
+    "Name": "Mechanism of Muscle Contraction",
+    "Value.id": 77,
+    "Value.group": 1
+  },
+  {
+    "Name": "ATP Production",
+    "Value.id": 78,
+    "Value.group": 77
+  },
+  {
+    "Name": "Binding of ATP",
+    "Value.id": 79,
+    "Value.group": 77
+  },
+  {
+    "Name": "Hydrolysis of ATP",
+    "Value.id": 80,
+    "Value.group": 84
+  },
+  {
+    "Name": "Release of acetylcholine",
+    "Value.id": 81,
+    "Value.group": 77
+  },
+  {
+    "Name": "Release of calcium ions",
+    "Value.id": 82,
+    "Value.group": 77
+  },
+  {
+    "Name": "Cross bridge formation",
+    "Value.id": 83,
+    "Value.group": 84
+  },
+  {
+    "Name": "Muscle contraction",
+    "Value.id": 84,
+    "Value.group": 77
+  },
+  {
+    "Name": "Curling mechanism of desert plant",
+    "Value.id": 85,
+    "Value.group": 1
+  },
+  {
+    "Name": "Outer stem curling",
+    "Value.id": 86,
+    "Value.group": 85
+  },
+  {
+    "Name": "Inner tip curling",
+    "Value.id": 87,
+    "Value.group": 85
+  },
+  {
+    "Name": "Inner base curling",
+    "Value.id": 88,
+    "Value.group": 85
+  },
+  {
+    "Name": "Thermal vision in Crotaline Snakes",
+    "Value.id": 89,
+    "Value.group": 1
+  },
+  {
+    "Name": "Ion Channel Activation",
+    "Value.id": 90,
+    "Value.group": 89
+  },
+  {
+    "Name": "Impulse Generation",
+    "Value.id": 91,
+    "Value.group": 89
+  },
+  {
+    "Name": "Impulse Transfer to Brain",
+    "Value.id": 92,
+    "Value.group": 89
+  },
+  {
+    "Name": "Electrical Impulse Conversion",
+    "Value.id": 93,
+    "Value.group": 89
+  },
+  {
+    "Name": "Cooling of membrane",
+    "Value.id": 94,
+    "Value.group": 89
+  },
+  {
+    "Name": "Stretching of muscle",
+    "Value.id": 95,
+    "Value.group": 77
+  },
+  {
+    "Name": "Sustained muscle contraction",
+    "Value.id": 96,
+    "Value.group": 77
+  },
+  {
+    "Name": "Defense Mechanism of Bombardier Beetle",
+    "Value.id": 97,
+    "Value.group": 1
+  },
+  {
+    "Name": "Collection chamber",
+    "Value.id": 98,
+    "Value.group": 97
+  },
+  {
+    "Name": "Explosion Chamber",
+    "Value.id": 99,
+    "Value.group": 97
+  },
+  {
+    "Name": "Chemical defense by flash evaporation",
+    "Value.id": 100,
+    "Value.group": 97
+  },
+  {
+    "Name": "Internal Organ Protection",
+    "Value.id": 101,
+    "Value.group": 97
+  },
+  {
+    "Name": "Mechanism of catching prey in Venus Fly Trap",
+    "Value.id": 102,
+    "Value.group": 1
+  },
+  {
+    "Name": "Mechanoreceptor Stimulation in plant",
+    "Value.id": 103,
+    "Value.group": 102
+  },
+  {
+    "Name": "Action Potential Generation",
+    "Value.id": 104,
+    "Value.group": 102
+  },
+  {
+    "Name": "Signal Transduction in venus fly trap",
+    "Value.id": 105,
+    "Value.group": 102
+  },
+  {
+    "Name": "Hydroelastic Curvature Mechanism",
+    "Value.id": 106,
+    "Value.group": 102
+  },
+  {
+    "Name": "Mechanism of bioluminescence in firefly",
+    "Value.id": 107,
+    "Value.group": 1
+  },
+  {
+    "Name": "Firefly tracheal system",
+    "Value.id": 108,
+    "Value.group": 107
+  },
+  {
+    "Name": "Octopaminergic Neurons in firefly",
+    "Value.id": 109,
+    "Value.group": 108
+  },
+  {
+    "Name": "Nitric oxide synthetase",
+    "Value.id": 110,
+    "Value.group": 108
+  },
+  {
+    "Name": "Oxygen in peroxisome",
+    "Value.id": 111,
+    "Value.group": 108
+  },
+  {
+    "Name": "Bioluminescent layer morphology of firefly",
+    "Value.id": 112,
+    "Value.group": 107
+  },
+  {
+    "Name": "Photogenic Layer",
+    "Value.id": 113,
+    "Value.group": 112
+  },
+  {
+    "Name": "Dorsal Layer",
+    "Value.id": 114,
+    "Value.group": 112
+  },
+  {
+    "Name": "Cuticle Layer",
+    "Value.id": 115,
+    "Value.group": 112
+  },
+  {
+    "Name": "Feedback inhibition",
+    "Value.id": 116,
+    "Value.group": 107
+  },
+  {
+    "Name": "creates a displacement of the body .,a movement of the body .",
+    "Value.id": 117,
+    "Value.group": 1
+  },
+  {
+    "Name": "Dispsense the melted/hot glue",
+    "Value.id": 118,
+    "Value.group": 1
+  },
+  {
+    "Name": "Melting of glue stick",
+    "Value.id": 119,
+    "Value.group": 118
+  },
+  {
+    "Name": "Ejection of hot glue",
+    "Value.id": 120,
+    "Value.group": 118
+  },
+  {
+    "Name": "Switch turned on",
+    "Value.id": 121,
+    "Value.group": 119
+  },
+  {
+    "Name": "Generate electric current",
+    "Value.id": 122,
+    "Value.group": 119
+  },
+  {
+    "Name": "generate heat",
+    "Value.id": 123,
+    "Value.group": 119
+  },
+  {
+    "Name": "Heating and Melting",
+    "Value.id": 124,
+    "Value.group": 119
+  },
+  {
+    "Name": "Push Lever",
+    "Value.id": 125,
+    "Value.group": 120
+  },
+  {
+    "Name": "activate mechanism",
+    "Value.id": 126,
+    "Value.group": 120
+  },
+  {
+    "Name": "push gripper housing",
+    "Value.id": 127,
+    "Value.group": 120
+  },
+  {
+    "Name": "push glue stick",
+    "Value.id": 128,
+    "Value.group": 120
+  },
+  {
+    "Name": "push lower end",
+    "Value.id": 129,
+    "Value.group": 126
+  },
+  {
+    "Name": "pull drag link",
+    "Value.id": 130,
+    "Value.group": 126
+  },
+  {
+    "Name": "pull gripper",
+    "Value.id": 131,
+    "Value.group": 126
+  },
+  {
+    "Name": "Apply pressure",
+    "Value.id": 132,
+    "Value.group": 120
+  },
+  {
+    "Name": "Make sound using buzzer",
+    "Value.id": 133,
+    "Value.group": 1
+  },
+  {
+    "Name": "Turn ON switch",
+    "Value.id": 134,
+    "Value.group": 133
+  },
+  {
+    "Name": "Disconnect oscillator",
+    "Value.id": 135,
+    "Value.group": 133
+  },
+  {
+    "Name": "Make collision",
+    "Value.id": 136,
+    "Value.group": 133
+  },
+  {
+    "Name": "Coil magnetization",
+    "Value.id": 137,
+    "Value.group": 135
+  },
+  {
+    "Name": "Attract Oscillator",
+    "Value.id": 138,
+    "Value.group": 135
+  },
+  {
+    "Name": "break circuit",
+    "Value.id": 139,
+    "Value.group": 135
+  },
+  {
+    "Name": "coil demagnetization",
+    "Value.id": 140,
+    "Value.group": 136
+  },
+  {
+    "Name": "Pull back Oscillator",
+    "Value.id": 141,
+    "Value.group": 136
+  },
+  {
+    "Name": "To collide oscillator to boss",
+    "Value.id": 142,
+    "Value.group": 136
+  },
+  {
+    "Name": "Close circuit",
+    "Value.id": 143,
+    "Value.group": 136
+  },
+  {
+    "Name": "Deflect oscillator",
+    "Value.id": 144,
+    "Value.group": 135
+  }
+]
