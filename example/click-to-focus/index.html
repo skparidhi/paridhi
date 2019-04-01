@@ -13,9 +13,9 @@
 
     const Graph = ForceGraph3D()
       (elem)
-        .jsonUrl('../datasets/miserables.json')
-        .nodeLabel('id')
-        .nodeAutoColorBy('group')
+        .jsonUrl('../datasets/tbl_name.json')
+        .nodeLabel('COL1')
+        .nodeAutoColorBy('COL2')
         .onNodeHover(node => elem.style.cursor = node ? 'pointer' : null)
         .onNodeClick(node => {
           // Aim at node from outside it
