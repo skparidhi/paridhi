@@ -1,0 +1,1303 @@
+{
+  "nodes": 
+[
+  {
+    "id": "SYSTEMS",
+    "group": 1
+  },
+  {
+    "id": "Soaring of Albatross",
+    "group": 1
+  },
+  {
+    "id": "climbing of mudskipper",
+    "group": 1
+  },
+  {
+    "id": "dynamic soaring",
+    "group": 1
+  },
+  {
+    "id": "muscles",
+    "group": 1
+  },
+  {
+    "id": "tubular nose",
+    "group": 1
+  },
+  {
+    "id": "acceleration of bird",
+    "group": 1
+  },
+  {
+    "id": "increased velocity of bird",
+    "group": 1
+  },
+  {
+    "id": "soaring with no net gain",
+    "group": 1
+  },
+  {
+    "id": "Elevation of albatross wing",
+    "group": 1
+  },
+  {
+    "id": "extension of elbow",
+    "group": 1
+  },
+  {
+    "id": "extension of the wrist",
+    "group": 1
+  },
+  {
+    "id": "protraction of wing",
+    "group": 1
+  },
+  {
+    "id": "shoulder lock",
+    "group": 1
+  },
+  {
+    "id": "sustained flight",
+    "group": 1
+  },
+  {
+    "id": "slow fibres",
+    "group": 1
+  },
+  {
+    "id": "pelvic fins",
+    "group": 1
+  },
+  {
+    "id": "pectoral fins",
+    "group": 1
+  },
+  {
+    "id": "protractor ischii",
+    "group": 1
+  },
+  {
+    "id": "retractor ischii",
+    "group": 1
+  },
+  {
+    "id": "propulsion phase",
+    "group": 2
+  },
+  {
+    "id": "recovery phase",
+    "group": 2
+  },
+  {
+    "id": "Single phase induction motor",
+    "group": 2
+  },
+  {
+    "id": "Centrifugal switch",
+    "group": 2
+  },
+  {
+    "id": "Stator",
+    "group": 2
+  },
+  {
+    "id": "Rotor",
+    "group": 2
+  },
+  {
+    "id": "Initiation of the motor",
+    "group": 2
+  },
+  {
+    "id": "AW disconnected from stator",
+    "group": 2
+  },
+  {
+    "id": "Current leads voltage",
+    "group": 2
+  },
+  {
+    "id": "Current leads voltage in AW",
+    "group": 2
+  },
+  {
+    "id": "Magnetic flux produced",
+    "group": 2
+  },
+  {
+    "id": "Revolving flux",
+    "group": 2
+  },
+  {
+    "id": "Emf induced electric and magnetic field generated",
+    "group": 2
+  },
+  {
+    "id": "Rotor generates net torque",
+    "group": 2
+  },
+  {
+    "id": "Rotor rotates",
+    "group": 2
+  },
+  {
+    "id": "Mechanical power generated",
+    "group": 2
+  },
+  {
+    "id": "Revolute pair",
+    "group": 2
+  },
+  {
+    "id": "Peristaltic pump",
+    "group": 2
+  },
+  {
+    "id": "Power transmission to rotor",
+    "group": 2
+  },
+  {
+    "id": "Rotation of rotor",
+    "group": 2
+  },
+  {
+    "id": "Rotation of movable member",
+    "group": 2
+  },
+  {
+    "id": "Force compressing tube",
+    "group": 2
+  },
+  {
+    "id": "Pump fluid",
+    "group": 2
+  },
+  {
+    "id": "Axial piston pump",
+    "group": 2
+  },
+  {
+    "id": "Drive shaft",
+    "group": 2
+  },
+  {
+    "id": "Cylinder block",
+    "group": 2
+  },
+  {
+    "id": "Piston",
+    "group": 2
+  },
+  {
+    "id": "Swash plate",
+    "group": 2
+  },
+  {
+    "id": "Disc rotation",
+    "group": 2
+  },
+  {
+    "id": "Rotation to reciprocation",
+    "group": 2
+  },
+  {
+    "id": "Walking",
+    "group": 2
+  },
+  {
+    "id": "Stance phase",
+    "group": 2
+  },
+  {
+    "id": "Body moves out of inertia",
+    "group": 2
+  },
+  {
+    "id": "Stance phase sub2",
+    "group": 1
+  },
+  {
+    "id": "Swing phase",
+    "group": 1
+  },
+  {
+    "id": "Swing phase sub1",
+    "group": 1
+  },
+  {
+    "id": "Swing phase sub2",
+    "group": 1
+  },
+  {
+    "id": "Alternator",
+    "group": 1
+  },
+  {
+    "id": "Alternator Rotor",
+    "group": 1
+  },
+  {
+    "id": "Alternator Stator",
+    "group": 1
+  },
+  {
+    "id": "Zinc-Carbon Battery",
+    "group": 1
+  },
+  {
+    "id": "Anode",
+    "group": 1
+  },
+  {
+    "id": "Cathode",
+    "group": 1
+  },
+  {
+    "id": "Carburetor",
+    "group": 1
+  },
+  {
+    "id": "Venturi",
+    "group": 1
+  },
+  {
+    "id": "Fuel Jet",
+    "group": 1
+  },
+  {
+    "id": "Throtte Valve",
+    "group": 1
+  },
+  {
+    "id": "Galvanometer",
+    "group": 1
+  },
+  {
+    "id": "Generation of magnetic field",
+    "group": 1
+  },
+  {
+    "id": "Interaction of magnetic fields",
+    "group": 1
+  },
+  {
+    "id": "Measuring the Current",
+    "group": 1
+  },
+  {
+    "id": "Block and Tackle System",
+    "group": 1
+  },
+  {
+    "id": "Rope movement",
+    "group": 1
+  },
+  {
+    "id": "Weight is lifted",
+    "group": 1
+  },
+  {
+    "id": "Weight is lifted by a particular distance",
+    "group": 1
+  },
+  {
+    "id": "random",
+    "group": 1
+  },
+  {
+    "id": "Mechanism of Muscle Contraction",
+    "group": 1
+  },
+  {
+    "id": "ATP Production",
+    "group": 1
+  },
+  {
+    "id": "Binding of ATP",
+    "group": 1
+  },
+  {
+    "id": "Hydrolysis of ATP",
+    "group": 1
+  },
+  {
+    "id": "Release of acetylcholine",
+    "group": 1
+  },
+  {
+    "id": "Release of calcium ions",
+    "group": 1
+  },
+  {
+    "id": "Cross bridge formation",
+    "group": 1
+  },
+  {
+    "id": "Muscle contraction",
+    "group": 2
+  },
+  {
+    "id": "Curling mechanism of desert plant",
+    "group": 2
+  },
+  {
+    "id": "Outer stem curling",
+    "group": 2
+  },
+  {
+    "id": "Inner tip curling",
+    "group": 2
+  },
+  {
+    "id": "Inner base curling",
+    "group": 2
+  },
+  {
+    "id": "Thermal vision in Crotaline Snakes",
+    "group": 2
+  },
+  {
+    "id": "Ion Channel Activation",
+    "group": 1
+  },
+  {
+    "id": "Impulse Generation",
+    "group": 1
+  },
+  {
+    "id": "Impulse Transfer to Brain",
+    "group": 1
+  },
+  {
+    "id": "Electrical Impulse Conversion",
+    "group": 1
+  },
+  {
+    "id": "Cooling of membrane",
+    "group": 1
+  },
+  {
+    "id": "Stretching of muscle",
+    "group": 2
+  },
+  {
+    "id": "Sustained muscle contraction",
+    "group": 2
+  },
+  {
+    "id": "Defense Mechanism of Bombardier Beetle",
+    "group": 2
+  },
+  {
+    "id": "Collection chamber",
+    "group": 1
+  },
+  {
+    "id": "Explosion Chamber",
+    "group": 1
+  },
+  {
+    "id": "Chemical defense by flash evaporation",
+    "group": 2
+  },
+  {
+    "id": "Internal Organ Protection",
+    "group": 2
+  },
+  {
+    "id": "Mechanism of catching prey in Venus Fly Trap",
+    "group": 2
+  },
+  {
+    "id": "Mechanoreceptor Stimulation in plant",
+    "group": 2
+  },
+  {
+    "id": "Action Potential Generation",
+    "group": 2
+  },
+  {
+    "id": "Signal Transduction in venus fly trap",
+    "group": 2
+  },
+  {
+    "id": "Hydroelastic Curvature Mechanism",
+    "group": 2
+  },
+  {
+    "id": "Mechanism of bioluminescence in firefly",
+    "group": 2
+  },
+  {
+    "id": "Firefly tracheal system",
+    "group": 2
+  },
+  {
+    "id": "Octopaminergic Neurons in firefly",
+    "group": 2
+  },
+  {
+    "id": "Nitric oxide synthetase",
+    "group": 2
+  },
+  {
+    "id": "Oxygen in peroxisome",
+    "group": 2
+  },
+  {
+    "id": "Bioluminescent layer morphology of firefly",
+    "group": 2
+  },
+  {
+    "id": "Photogenic Layer",
+    "group": 2
+  },
+  {
+    "id": "Dorsal Layer",
+    "group": 2
+  },
+  {
+    "id": "Cuticle Layer",
+    "group": 2
+  },
+  {
+    "id": "Feedback inhibition",
+    "group": 2
+  },
+  {
+    "id": "creates a displacement of the body .,a movement of the body .",
+    "group": 2
+  },
+  {
+    "id": "Dispsense the melted/hot glue",
+    "group": 1
+  },
+  {
+    "id": "Melting of glue stick",
+    "group": 1
+  },
+  {
+    "id": "Ejection of hot glue",
+    "group": 1
+  },
+  {
+    "id": "Switch turned on",
+    "group": 1
+  },
+  {
+    "id": "Generate electric current",
+    "group": 1
+  },
+  {
+    "id": "generate heat",
+    "group": 1
+  },
+  {
+    "id": "Heating and Melting",
+    "group": 1
+  },
+  {
+    "id": "Push Lever",
+    "group": 1
+  },
+  {
+    "id": "activate mechanism",
+    "group": 1
+  },
+  {
+    "id": "push gripper housing",
+    "group": 1
+  },
+  {
+    "id": "push glue stick",
+    "group": 1
+  },
+  {
+    "id": "push lower end",
+    "group": 1
+  },
+  {
+    "id": "pull drag link",
+    "group": 1
+  },
+  {
+    "id": "pull gripper",
+    "group": 1
+  },
+  {
+    "id": "Apply pressure",
+    "group": 1
+  },
+  {
+    "id": "Make sound using buzzer",
+    "group": 1
+  },
+  {
+    "id": "Turn ON switch",
+    "group": 1
+  },
+  {
+    "id": "Disconnect oscillator",
+    "group": 1
+  },
+  {
+    "id": "Make collision",
+    "group": 1
+  },
+  {
+    "id": "Coil magnetization",
+    "group": 1
+  },
+  {
+    "id": "Attract Oscillator",
+    "group": 1
+  },
+  {
+    "id": "break circuit",
+    "group": 1
+  },
+  {
+    "id": "coil demagnetization",
+    "group": 1
+  },
+  {
+    "id": "Pull back Oscillator",
+    "group": 1
+  },
+  {
+    "id": "To collide oscillator to boss",
+    "group": 1
+  },
+  {
+    "id": "Close circuit",
+    "group": 1
+  },
+  {
+    "id": "Deflect oscillator",
+    "group": 1
+  }
+],
+  "links":[
+  {
+    "source": "SYSTEMS",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Soaring of Albatross",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "climbing of mudskipper",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "dynamic soaring",
+    "target": "protractor ischii",
+    "value": 1
+  },
+  {
+    "source": "muscles",
+    "target": "protractor ischii",
+    "value": 1
+  },
+  {
+    "source": "tubular nose",
+    "target": "protractor ischii",
+    "value": 1
+  },
+  {
+    "source": "acceleration of bird",
+    "target": "Power transmission to rotor",
+    "value": 1
+  },
+  {
+    "source": "increased velocity of bird",
+    "target": "Power transmission to rotor",
+    "value": 1
+  },
+  {
+    "source": "soaring with no net gain",
+    "target": "Power transmission to rotor",
+    "value": 1
+  },
+  {
+    "source": "Elevation of albatross wing",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "extension of elbow",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "extension of the wrist",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "protraction of wing",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "shoulder lock",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "sustained flight",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "slow fibres",
+    "target": "Disc rotation",
+    "value": 1
+  },
+  {
+    "source": "pelvic fins",
+    "target": "Current leads voltage",
+    "value": 1
+  },
+  {
+    "source": "pectoral fins",
+    "target": "Current leads voltage",
+    "value": 1
+  },
+  {
+    "source": "protractor ischii",
+    "target": "pelvic fins",
+    "value": 1
+  },
+  {
+    "source": "retractor ischii",
+    "target": "pelvic fins",
+    "value": 1
+  },
+  {
+    "source": "propulsion phase",
+    "target": "pectoral fins",
+    "value": 1
+  },
+  {
+    "source": "recovery phase",
+    "target": "pectoral fins",
+    "value": 1
+  },
+  {
+    "source": "Single phase induction motor",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Centrifugal switch",
+    "target": "Single phase induction motor",
+    "value": 1
+  },
+  {
+    "source": "Stator",
+    "target": "Single phase induction motor",
+    "value": 1
+  },
+  {
+    "source": "Rotor",
+    "target": "Single phase induction motor",
+    "value": 1
+  },
+  {
+    "source": "Initiation of the motor",
+    "target": "Centrifugal switch",
+    "value": 1
+  },
+  {
+    "source": "AW disconnected from stator",
+    "target": "Centrifugal switch",
+    "value": 1
+  },
+  {
+    "source": "Current leads voltage",
+    "target": "Stator",
+    "value": 1
+  },
+  {
+    "source": "Current leads voltage in AW",
+    "target": "Stator",
+    "value": 1
+  },
+  {
+    "source": "Magnetic flux produced",
+    "target": "Stator",
+    "value": 1
+  },
+  {
+    "source": "Revolving flux",
+    "target": "Stator",
+    "value": 1
+  },
+  {
+    "source": "Emf induced electric and magnetic field generated",
+    "target": "Rotor",
+    "value": 1
+  },
+  {
+    "source": "Rotor generates net torque",
+    "target": "Rotor",
+    "value": 1
+  },
+  {
+    "source": "Rotor rotates",
+    "target": "Rotor",
+    "value": 1
+  },
+  {
+    "source": "Mechanical power generated",
+    "target": "Rotor",
+    "value": 1
+  },
+  {
+    "source": "Revolute pair",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Peristaltic pump",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Power transmission to rotor",
+    "target": "Peristaltic pump",
+    "value": 1
+  },
+  {
+    "source": "Rotation of rotor",
+    "target": "Peristaltic pump",
+    "value": 1
+  },
+  {
+    "source": "Rotation of movable member",
+    "target": "Peristaltic pump",
+    "value": 1
+  },
+  {
+    "source": "Force compressing tube",
+    "target": "Peristaltic pump",
+    "value": 1
+  },
+  {
+    "source": "Pump fluid",
+    "target": "Peristaltic pump",
+    "value": 1
+  },
+  {
+    "source": "Axial piston pump",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Drive shaft",
+    "target": "Axial piston pump",
+    "value": 1
+  },
+  {
+    "source": "Cylinder block",
+    "target": "Axial piston pump",
+    "value": 1
+  },
+  {
+    "source": "Piston",
+    "target": "Axial piston pump",
+    "value": 1
+  },
+  {
+    "source": "Swash plate",
+    "target": "Piston",
+    "value": 1
+  },
+  {
+    "source": "Disc rotation",
+    "target": "Swash plate",
+    "value": 1
+  },
+  {
+    "source": "Rotation to reciprocation",
+    "target": "Swash plate",
+    "value": 1
+  },
+  {
+    "source": "Walking",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Stance phase",
+    "target": "Walking",
+    "value": 1
+  },
+  {
+    "source": "Body moves out of inertia",
+    "target": "Stance phase",
+    "value": 1
+  },
+  {
+    "source": "Stance phase sub2",
+    "target": "Stance phase",
+    "value": 1
+  },
+  {
+    "source": "Swing phase",
+    "target": "Walking",
+    "value": 1
+  },
+  {
+    "source": "Swing phase sub1",
+    "target": "Swing phase",
+    "value": 1
+  },
+  {
+    "source": "Swing phase sub2",
+    "target": "Swing phase",
+    "value": 1
+  },
+  {
+    "source": "Alternator",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Alternator Rotor",
+    "target": "Alternator",
+    "value": 1
+  },
+  {
+    "source": "Alternator Stator",
+    "target": "Alternator",
+    "value": 1
+  },
+  {
+    "source": "Zinc-Carbon Battery",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Anode",
+    "target": "Zinc-Carbon Battery",
+    "value": 1
+  },
+  {
+    "source": "Cathode",
+    "target": "Zinc-Carbon Battery",
+    "value": 1
+  },
+  {
+    "source": "Carburetor",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Venturi",
+    "target": "Carburetor",
+    "value": 1
+  },
+  {
+    "source": "Fuel Jet",
+    "target": "Carburetor",
+    "value": 1
+  },
+  {
+    "source": "Throtte Valve",
+    "target": "Carburetor",
+    "value": 1
+  },
+  {
+    "source": "Galvanometer",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Generation of magnetic field",
+    "target": "Galvanometer",
+    "value": 1
+  },
+  {
+    "source": "Interaction of magnetic fields",
+    "target": "Galvanometer",
+    "value": 1
+  },
+  {
+    "source": "Measuring the Current",
+    "target": "Galvanometer",
+    "value": 1
+  },
+  {
+    "source": "Block and Tackle System",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Rope movement",
+    "target": "Block and Tackle System",
+    "value": 1
+  },
+  {
+    "source": "Weight is lifted",
+    "target": "Block and Tackle System",
+    "value": 1
+  },
+  {
+    "source": "Weight is lifted by a particular distance",
+    "target": "Block and Tackle System",
+    "value": 1
+  },
+  {
+    "source": "random",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Mechanism of Muscle Contraction",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "ATP Production",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Binding of ATP",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Hydrolysis of ATP",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Release of acetylcholine",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Release of calcium ions",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Cross bridge formation",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Muscle contraction",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Curling mechanism of desert plant",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Outer stem curling",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Inner tip curling",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Inner base curling",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Thermal vision in Crotaline Snakes",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Ion Channel Activation",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Impulse Generation",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Impulse Transfer to Brain",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Electrical Impulse Conversion",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Cooling of membrane",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Stretching of muscle",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Sustained muscle contraction",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Defense Mechanism of Bombardier Beetle",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Collection chamber",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Explosion Chamber",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Chemical defense by flash evaporation",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Internal Organ Protection",
+    "target": "Deflect oscillator",
+    "value": 1
+  },
+  {
+    "source": "Mechanism of catching prey in Venus Fly Trap",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Mechanoreceptor Stimulation in plant",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Action Potential Generation",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Signal Transduction in venus fly trap",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Hydroelastic Curvature Mechanism",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Mechanism of bioluminescence in firefly",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Firefly tracheal system",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Octopaminergic Neurons in firefly",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Nitric oxide synthetase",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Oxygen in peroxisome",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Bioluminescent layer morphology of firefly",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Photogenic Layer",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Dorsal Layer",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Cuticle Layer",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Feedback inhibition",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "creates a displacement of the body .,a movement of the body .",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Dispsense the melted/hot glue",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Melting of glue stick",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Ejection of hot glue",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Switch turned on",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Generate electric current",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "generate heat",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Heating and Melting",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Push Lever",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "activate mechanism",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "push gripper housing",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "push glue stick",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "push lower end",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "pull drag link",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "pull gripper",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Apply pressure",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Make sound using buzzer",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Turn ON switch",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Disconnect oscillator",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Make collision",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Coil magnetization",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Attract Oscillator",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "break circuit",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "coil demagnetization",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Pull back Oscillator",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "To collide oscillator to boss",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Close circuit",
+    "target": "SYSTEMS",
+    "value": 1
+  },
+  {
+    "source": "Deflect oscillator",
+    "target": "SYSTEMS",
+    "value": 1
+  }
+]
+}
